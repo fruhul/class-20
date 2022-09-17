@@ -1,0 +1,18 @@
+.logo {
+    max-width: 100%;
+    width: 46px;
+}
+.navbar{
+    background-color: rgba(13, 202, 240,.3);
+}
+.progress{
+    height: 27px;
+    margin-bottom: 21px;
+}
+button.btn-close {
+    margin-left: 1049px;
+}
+ul.pagination {
+ 
+    margin-left: 343px;
+}
